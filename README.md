@@ -1,7 +1,4 @@
-/**
-* First E-commerce app
-*/
+PHP based simple e-commerce app
 
-/**
-* Database file isn't included here.
-*/
+
+N.B. Database file isn't included here.
